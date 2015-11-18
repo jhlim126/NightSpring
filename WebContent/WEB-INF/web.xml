@@ -6,7 +6,7 @@
 	
 	<context-param>
 		<param-name>contextConfigLocation</param-name>
-		<param-value>classpath:spring/config/service.xml</param-value>
+		<param-value>classpath:com/sds/spring/config/service.xml</param-value>
 	</context-param>
 	
 	<listener>
